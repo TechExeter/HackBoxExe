@@ -24,7 +24,11 @@ Also just need some general tools, such as
 
 First aid kit :D
 
-## Computing Devices
+## Prototyping
+
+* Lego Technic + Lego Mindstorms
+
+## Computing / IoT Devices
 
 Most of these devices will need access to either a computer/laptop for programming (Arduino) or a Screen + Keyboard + Mouse (Raspberry Pi). 
 
@@ -33,21 +37,27 @@ Item | Quantity | Link | Price
 Raspberry Pi 3 | 20? | http://uk.rs-online.com/web/p/processor-microcontroller-development-kits/8968660/ | £40
 Raspberry Pi zero W | 20? | https://shop.pimoroni.com/products/raspberry-pi-zero-w | £15
 
+Misc equipment:
+
 * Micro SD cards for all devices
 
-## Human Interface Devices
+Other ideas:
 
-Stuff for interacting with humans - lights, screens, audio, tactile sensors, etc
+* Wearable computing kit
+
+## Sensors / Interface Devices
+
+Interacting with *humans* - lights, screens, audio, tactile switches, etc
+
+Interacting and sensing *the environment* - infrared, cameras, temperature probes etc
 
 Item | Quantity | Link | Price
 ---- | -------  | ---- | -----
 34 Piece Sensor Kit | 2+ | https://www.modmypi.com/arduino/kits/keyes-37-piece-sensor-experiment-kit | £34
-
-## Environmental Interface Devices
-
-Things for interacting and sensing the environment - infrared, cameras, temperature probes etc
-
-Item | Quantity | Link | Price
----- | -------  | ---- | -----
 Raspberry Pi Camera Board v2 (Also comes in Infrared) | ? |  https://www.modmypi.com/raspberry-pi/camera/camera-boards/raspberry-pi-camera-board-v2-8mp1080p | £24.50 + £3.50 cable
 
+## Other kit
+
+Other kit, such as all-in-one devices or specialist equipment goes here.
+
+* Amazon Alexa
