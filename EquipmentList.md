@@ -12,15 +12,16 @@ Item | Quantity | Link | Price
 Temperature controlled soldering irons | 2 minumum | http://www.maplin.co.uk/p/48w-mains-solder-station-n67ef | £25
 Bluetak | lots
 Prototyping Breadboards | 1 per arduino/raspberry pi |https://shop.pimoroni.com/products/solderless-breadboard-400-point | £4.50
-Breadboard cable jumpers, connectors | 
+Breadboard cable jumpers, connectors |
 
 Also just need some general tools, such as
 
-* Cutting tools (wire cutters, tin snips, etc) 
-* Gripping tools (pliers, long nosed pliers) 
-* Workshop tools (clamps, helping hands, tape measures, magnifying glasses) 
+* Cutting tools (wire cutters, tin snips, stanley knife, etc)
+* Gripping tools (pliers, long nosed pliers)
+* Workshop tools (clamps, helping hands, tape measures, metal rule, magnifying glasses)
 * Soldering tools (solder suckers, solder)
 * 4 gangs and extension cords
+* Cordless drill
 
 First aid kit :D
 
