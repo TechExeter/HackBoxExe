@@ -67,6 +67,15 @@ Raspberry Pi Camera Board v2 (Also comes in Infrared) | ? |  https://www.modmypi
 Bare Conductive Touch Board | | https://www.bareconductive.com/shop/touch-board-starter-kit/ |
 Speakers with 3.5mm jack | | |
 
+## Motors / Controllers
+
+* Stepper motors
+* High current driver (e.g. Polulu DRV8825)
+* M3 nuts and bolts and allen key/nut driver
+* Power supply unit
+* Linear actuators
+* Flexinol muscle wire?
+
 ## Other kit
 
 Other kit, such as all-in-one devices or specialist equipment goes here.
