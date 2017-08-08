@@ -64,6 +64,8 @@ Item | Quantity | Link | Price
 ---- | -------  | ---- | -----
 34 Piece Sensor Kit | 2+ | https://www.modmypi.com/arduino/kits/keyes-37-piece-sensor-experiment-kit | £34
 Raspberry Pi Camera Board v2 (Also comes in Infrared) | ? |  https://www.modmypi.com/raspberry-pi/camera/camera-boards/raspberry-pi-camera-board-v2-8mp1080p | £24.50 + £3.50 cable
+Bare Conductive Touch Board | | https://www.bareconductive.com/shop/touch-board-starter-kit/ |
+Speakers with 3.5mm jack | | |
 
 ## Other kit
 
