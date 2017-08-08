@@ -12,3 +12,4 @@ Resources and instructions for the Exeter HackBox project.
 # Contributors
 
 * Kris Sum - Tech Exeter organiser, software developer.
+* Andy Wood - Kaleider resident, software developer.
