@@ -28,10 +28,18 @@ First aid kit :D
 ## Prototyping
 
 * Lego Technic + Lego Mindstorms
+* Makey Makey
+* Card/Greyboard
+* Hot glue gun
+* Garden wire
+* Fishing line
+* String
+* Thermoplastic beads
+* Sugru
 
 ## Computing / IoT Devices
 
-Most of these devices will need access to either a computer/laptop for programming (Arduino) or a Screen + Keyboard + Mouse (Raspberry Pi). 
+Most of these devices will need access to either a computer/laptop for programming (Arduino) or a Screen + Keyboard + Mouse (Raspberry Pi).
 
 Item | Quantity | Link | Price
 ---- | -------  | ---- | -----
